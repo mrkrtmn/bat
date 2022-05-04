@@ -1,0 +1,2 @@
+robocopy "\\192.168.11.185\h$\backup\BK_DB_BS" E:\BK_THK_PROD /LOG:"\\192.168.11.8\logs_lpz\BK_DB_BS_11.185.LOG" /MOV /E /R:5 /W:3
+robocopy "\\192.168.11.190\h$\backup\BK_DB_BS" E:\BK_THK_PROD /LOG:"\\192.168.11.8\logs_lpz\BK_DB_BS_11.190.LOG" /MOV /E /R:5 /W:3

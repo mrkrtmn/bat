@@ -1,0 +1,37 @@
+start robocopy \\192.168.30.27\Auditoria_Reclamos_CBB D:\Compartidos_2\Auditoria_Reclamos_CBB /LOG:"D:\logs\Auditoria_Reclamos_CBB.LOG" /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Automotores_Cochabamba D:\Compartidos\Automotores_Cochabamba /LOG:"D:\logs\Automotores_Cochabamba.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Base_Files_de_Clientes_CBB D:\Compartidos_2\Base_Files_de_Clientes_CBB /LOG:"D:\logs\Base_Files_de_Clientes_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\bd empresas D:\BD EMPRESAS /LOG:"D:\logs\bd empresas.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\BD_Clientes_CBB D:\Compartidos\BD_Clientes_CBB /LOG:"D:\logs\BD_Clientes_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\cac D:\Compartidos\Compartidos\CAC /LOG:"D:\logs\cac.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Cajas D:\Compartidos\Compartidos\Cajas /LOG:"D:\logs\Cajas.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Cauciones D:\Compartidos\Compartidos\Cauciones /LOG:"D:\logs\Cauciones.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Cobranzas D:\Compartidos\Compartidos\Cobranzas /LOG:"D:\logs\Cobranzas.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Compartidos D:\Compartidos /LOG:"D:\logs\Compartidos.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Compartidos2 D:\Compartidos\Compartidos /LOG:"D:\logs\Compartidos2.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Contabilidad D:\Compartidos\Compartidos\Contabilidad /LOG:"D:\logs\Contabilidad.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Control_de_material_CBB D:\Compartidos_2\Control_de_material_CBB /LOG:"D:\logs\Control_de_material_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Control_Suscripcion D:\Compartidos\Control_Suscripcion /LOG:"D:\logs\Control_Suscripcion.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Digitalizacion_Salud_CBB D:\Compartidos_2\Digitalizacion_Salud_CBB /LOG:"D:\logs\Digitalizacion_Salud_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Documentacion_Siniestros_Generales_CBB D:\Compartidos_2\Documentacion_Siniestros_Generales_CBB /LOG:"D:\logs\Documentacion_Siniestros_Generales_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Documentos_Salud_Cochabamba D:\Compartidos_2\Documentos_Salud_Cochabamba /LOG:"D:\logs\Documentos_Salud_Cochabamba.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Dpto_Agentes_CBB D:\Compartidos_2\Dpto_Agentes_CBB /LOG:"D:\logs\Dpto_Agentes_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Equipo_Comercial_CBB D:\Compartidos_2\Equipo_Comercial_CBB /LOG:"D:\logs\Equipo_Comercial_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Formularios_Artes_Agentes_CBB D:\Compartidos_2\Formularios_Artes_Agentes_CBB /LOG:"D:\logs\Formularios_Artes_Agentes_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Gerencia D:\Compartidos\Compartidos\Gerencia /LOG:"D:\logs\Gerencia.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Inspecciones D:\Compartidos\Inspecciones /LOG:"D:\logs\Inspecciones.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\logs_cbb D:\LOGS_CBB /LOG:"D:\logs\logs_cbb.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Personales D:\Compartidos\Personales /LOG:"D:\logs\Personales.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Pliego_Licitacion_Valle_Hermoso D:\Compartidos\Compartidos\Pliego_Licitacion_Valle_Hermoso /LOG:"D:\logs\Pliego_Licitacion_Valle_Hermoso.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Pre_Riesgo_Archivos D:\Compartidos\Pre_Riesgo_Archivos /LOG:"D:\logs\Pre_Riesgo_Archivos.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\presupuesto D:\Compartidos\presupuesto /LOG:"D:\logs\presupuesto.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Produccion D:\Compartidos\Compartidos\Produccion /LOG:"D:\logs\Produccion.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\salud D:\Compartidos_2\Compartidos\salud /LOG:"D:\logs\salud.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Salud_2 D:\Compartidos_2\Compartidos\Compartidos\Salud /LOG:"D:\logs\Salud_2.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\sam D:\Compartidos_2\Compartidos\salud\sam /LOG:"D:\logs\sam.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\sat D:\Compartidos\SAT /LOG:"D:\logs\sat.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\sat2 D:\Compartidos_2\Compartidos\SAT /LOG:"D:\logs\sat2.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Shared_CBB D:\Shared_CBB /LOG:"D:\logs\Shared_CBB.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\soporte D:\Compartidos_2\Compartidos\soporte /LOG:"D:\logs\soporte.LOG"  /E /R:5 /W:3 
+start robocopy \\192.168.30.27\Videos_Service_Desk_CBB D:\Compartidos_2\Videos_Service_Desk_CBB /LOG:"D:\logs\Videos_Service_Desk_CBB.LOG"  /E /R:5 /W:3 
+exit
